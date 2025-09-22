@@ -26,7 +26,7 @@ Data Science/
 ## Cómo usar este repositorio
 
 1. Clona el repositorio:  
-   git clone https://github.com/tu_usuario/data-science.git  
+   git clone https://github.com/EdwinIniguez/Data-Science.git  
    cd data-science
 
 2. Instala los requerimientos
